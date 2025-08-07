@@ -27,5 +27,16 @@ g++ -std=c++17 Database.cpp main.cpp -o db_app
 ./db_app
 ```
 
+## Upcoming Features
+
+1. **Encryption**
+   - Secure your database contents with built-in encryption for both text and binary data.
+
+2. **Compression**
+   - Reduce the size of your `.storex` database file using efficient compression algorithms.
+
+3. **Peer-to-Peer (P2P) Sync**
+   - Share and synchronize your database across devices using a decentralized P2P network.
+
 ## License
 MIT
