@@ -1,0 +1,19 @@
+# Ignore build output
+/db_app
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore custom database files
+*.storex
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Other common ignores
+*.log
+*.tmp
